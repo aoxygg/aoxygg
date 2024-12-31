@@ -28,8 +28,13 @@
  </div>
  
  <div>
-   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ftrzg0d&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0000FF&icon_color=0000FF&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ftrzg0d&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0000FF&count_private=true"/>
+   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=ftrzg0d&cc=0d1117&tc=0000FF&ic=0000FF&bc=0d1117"/>
+ </div>
+
+ <br>
+
+ <div align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ftrzg0d&theme=tokyonight&hide_border=true&background=0d1117&stroke=0000FF&ring=0000FF&fire=0000FF&currStreakNum=0000FF&sideNums=0000FF&currStreakLabel=0000FF&sideLabels=0000FF&dates=0000FF"/>
  </div>
 
  <br>
