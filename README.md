@@ -28,7 +28,7 @@
  </div>
  
  <div>
-   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=Aoxyg0d&cc=0d1117&tc=0000FF&ic=0000FF&bc=0d1117"/>
+   <img height="180em" src="https://github-stats-alpha.vercel.app/api?username=aoxygg&cc=0d1117&tc=0000FF&ic=0000FF&bc=0d1117"/>
  </div>
 
  <br>
@@ -39,7 +39,7 @@
 
  <br>
 
- <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Aoxyg0d&theme=react-dark&hide_border=true&bg_color=0d1117&line=0000FF&color=0000FF&custom_title=Contribution%20Graph&area=true"/>
+ <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=aoxygg&theme=react-dark&hide_border=true&bg_color=0d1117&line=0000FF&color=0000FF&custom_title=Contribution%20Graph&area=true"/>
 
  <div align="center">
    <h2>
@@ -63,11 +63,11 @@
  </div>
 
  <div align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=Aoxyg0d&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=aoxygg&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=15"/>
  </div>
 
  <div align="center" style="margin: 20px 0">
-   <img src="https://komarev.com/ghpvc/?username=Aoxyg0d&color=0000FF&style=for-the-badge&label=Profile+Views"/>
+   <img src="https://komarev.com/ghpvc/?username=aoxygg&color=0000FF&style=for-the-badge&label=Profile+Views"/>
  </div>
 
  <picture>
