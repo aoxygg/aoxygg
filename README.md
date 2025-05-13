@@ -2,7 +2,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0000FF&height=180&section=header&text=Future&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CyberSecurity%20Specialist&descSize=20&descAlignY=55"/>
   
  <p align="center">
-   <img src="https://cdn.discordapp.com/attachments/1346850960634548265/1363380583983485020/Screenshot_2.png?ex=6805d29d&is=6804811d&hm=543ce7f2dd9188b117691d7342f382a44ddcf31e03ec35fc365a1dc0cc8d6ea7&" width="200" style="border-radius: 50%; border: 4px solid #0000FF; box-shadow: 0 0 25px #0000FF" />
+   <img src="[https://cdn.discordapp.com/attachments/1346850960634548265/1363380583983485020/Screenshot_2.png?ex=6805d29d&is=6804811d&hm=543ce7f2dd9188b117691d7342f382a44ddcf31e03ec35fc365a1dc0cc8d6ea7&](https://media.discordapp.net/attachments/1349266974957502535/1368352643415675060/1a3c0f0f54c7dcf2ab347cdd1b6d8e84eaf05b11.png?ex=68246f74&is=68231df4&hm=b19e5b1bf6e8536a2a1f8f783f9b42528b341cf6ea8cb6701d39668ef1980265&=&format=webp&quality=lossless&width=350&height=263)" width="200" style="border-radius: 50%; border: 4px solid #0000FF; box-shadow: 0 0 25px #0000FF" />
  </p>
 
  <div align="center">
