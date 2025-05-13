@@ -1,5 +1,5 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0000FF&height=180&section=header&text=Aoxy&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CyberSecurity%20Specialist&descSize=20&descAlignY=55"/>
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0000FF&height=180&section=header&text=Future&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20CyberSecurity%20Specialist&descSize=20&descAlignY=55"/>
   
  <p align="center">
    <img src="https://cdn.discordapp.com/attachments/1346850960634548265/1363380583983485020/Screenshot_2.png?ex=6805d29d&is=6804811d&hm=543ce7f2dd9188b117691d7342f382a44ddcf31e03ec35fc365a1dc0cc8d6ea7&" width="200" style="border-radius: 50%; border: 4px solid #0000FF; box-shadow: 0 0 25px #0000FF" />
@@ -34,7 +34,7 @@
  <br>
 
  <div align="center">
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aoxyg0d&theme=tokyonight&hide_border=true&background=0d1117&stroke=0000FF&ring=0000FF&fire=0000FF&currStreakNum=0000FF&sideNums=0000FF&currStreakLabel=0000FF&sideLabels=0000FF&dates=0000FF"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aoxygg&theme=tokyonight&hide_border=true&background=0d1117&stroke=0000FF&ring=0000FF&fire=0000FF&currStreakNum=0000FF&sideNums=0000FF&currStreakLabel=0000FF&sideLabels=0000FF&dates=0000FF"/>
  </div>
 
  <br>
@@ -51,7 +51,7 @@
    <a href="https://discord.gg/nowstealer" target="_blank">
      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117">
    </a>
-   <a href="https://instagram.com/futurewxq" target="_blank">
+   <a href="https://instagram.com/aoxygg" target="_blank">
      <img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white">
    </a>
  </div>
